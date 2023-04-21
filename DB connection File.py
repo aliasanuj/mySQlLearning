@@ -1,5 +1,8 @@
 
-#code1
+
+'''python code to communicate with DataBase
+working'''
+
 # import mysql.connector
 # def dbconnect():
 #   try:
@@ -31,8 +34,13 @@
 #       connect.close()
 # dbconnect()
 
-# code 2
-#insert into mysql with values seperately
+
+
+
+
+'''insert into mysql with values seperately
+working code'''
+
 # import mysql.connector
 # def dbconnect():
 #   try:
@@ -51,8 +59,12 @@
 #           print("mysql completed")
 # dbconnect()
 
-# code 3
-#insert into mysql with values seperately with more try block error
+
+
+
+'''insert into mysql with values seperately with more try block error
+working code'''
+
 # import mysql.connector
 # def dbconnect():
 #   try:
@@ -78,5 +90,8 @@
 #           connect.close()
 #           print("mysql completed")
 # dbconnect()
+
+
+
 
 
