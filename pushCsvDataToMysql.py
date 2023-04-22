@@ -1,4 +1,5 @@
-# ##This is to push csv data to DB
+'''This is to push csv data to DB
+working code '''
 
 
 
